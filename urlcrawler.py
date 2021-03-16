@@ -1,3 +1,4 @@
+#This is a small program for you to retrieve url links from a web page using Beautiful Soup for html parsing
 import urllib.request, urllib.parse, urllib.error
 from bs4 import BeautifulSoup
 import ssl
