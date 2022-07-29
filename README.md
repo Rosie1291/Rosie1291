@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rosie1291
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in web development
+- 🌱 Languages: Python, Java, C++, HTML/CSS, and Javascript
 - 💞️ I’m looking to create some fun games/tools that can make my life easier and more fun
 - 📫 How to reach me hongnhungnguyen1291@gmail.com
 
